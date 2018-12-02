@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="SFDC_Contacts_BOT.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/28/2018 14:53:56</Property>
+      <Property Name="RunDuration">00:02:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SFDC_Stub.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/28/2018 14:53:57</Property>
+      <Property Name="RunDuration">00:02:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SFDC_ErrorHandling.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/28/2018 14:53:56</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
